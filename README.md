@@ -7,7 +7,7 @@
 
 [PUBLIC]
 
-## folders organization
+## content
 
 ## comments
 
@@ -15,4 +15,4 @@
 
 Check the license file.
 
-## last update: 2021.06.22
+## last update: 2021.06.25
