@@ -15,4 +15,4 @@
 
 Check the license file.
 
-## last update: 2021.06.25
+## last updates: 2021.06.25
